@@ -3,12 +3,17 @@ Colin R Lickwar, Florian Mueller, Sean E Hanlon, James G McNally, Jason D Lieb
 Nature 2012 Apr 11;484(7393):251-5. doi: 10.1038/nature10985.
 Genome-wide protein-DNA binding dynamics suggest a molecular clutch for transcription factor function
 https://pubmed.ncbi.nlm.nih.gov/22498630/
+Filename: Genome-wide_protein-DNA_binding_dynamics.pdf
 
 
 Paper #2: Original competition ChIP methods paper (with model description in Box 3)
 Colin R Lickwar, Florian Mueller, Jason D Lieb
 Nature Protocol June 2013 8(7):1337-53 DOI: 10.1038/nprot.2013.077
 Genome-wide measurement of protein-DNA binding dynamics using competition ChIP
+Filename: Genome-wide_measurement_of_protein-DNA_binding_dyn.pdf
 
 
+Code #1: MATLAB for original model (from Paper #2, Box 3) to 'process and fit competition ChIP data)
+File folder: brumby/paper/ccc-process
+https://code.google.com/archive/p/ccc-process/
 
