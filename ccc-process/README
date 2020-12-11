@@ -1,0 +1,12 @@
+This folder holds the MATLAB code to model and analyze 
+competition ChIP experiments
+
+These files and descriptions were downloaded Dec 11, 2020 
+from here: https://code.google.com/archive/p/ccc-process/downloads
+
+Descriptions (from the website link above):
+test data is in CCC_norm_TEST_DATA.zip
+archive wih source code and help file is in CCC_norm.zip
+archive with source code, help file, and test data is in CCC_model.zip
+test data is in CCC_analyze_TEST_DATA_v1a.zip
+archive with source code and hepl file is in CCC_analyze.zip
