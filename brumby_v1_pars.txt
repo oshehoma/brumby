@@ -1,0 +1,7 @@
+Parameter symbol, Units, Value, Description
+alpha,1/min,0.05,constant of proportionality
+K,amount,1e9,maximum amount of free induced protein
+D0,amount,19200,total amount of DNA 
+beta,amount,1e9,constitutive protein amount
+kon,1/(min*amount),1, rate of protein binding to DNA
+koff,1/min,5e-2,rate of protein-DNA unbinding

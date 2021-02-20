@@ -1,0 +1,6 @@
+#brumby model v1
+#brumby_v1_vars.txt
+#brumby_v1_pars.txt
+dIdt = (alpha*I)*(1-I/K) - kon*I*(D0 - CDNA - IDNA) + koff*IDNA
+dIDNAdt = kon*I*(D0 - CDNA - IDNA) - koff*IDNA
+dCDNAdt = beta*kon*(D0 - CDNA - IDNA) - koff*CDNA

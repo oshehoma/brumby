@@ -1,0 +1,5 @@
+Variable symbol, Units, Value, Description
+I,Amount,5e7,Unbound ('free') induced protein
+IDNA,Amount,4200,bound induced protein
+CDNA,Amount,15000,bound constitutive protein
+t,min,150,Time
